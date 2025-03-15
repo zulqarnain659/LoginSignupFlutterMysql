@@ -1,16 +1,19 @@
-# loginsignupapp
+# LoginSignupFlutterMysql
 
-A new Flutter project.
+A flutter based project to handle login/Signup functionality 
 
-## Getting Started
+Mysql Database
 
-This project is a starting point for a Flutter application.
+API in PHP
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/user-attachments/assets/99b737c3-399c-4d25-af5d-de3b5f0106cd" width="300" />
+<img src="https://github.com/user-attachments/assets/734925a7-d70c-4026-9e45-ea59fe737ec6" width="300" />
+</br>
+<img src="https://github.com/user-attachments/assets/66e83d53-b372-4d8c-9eee-80ab5498bebc" width="300" />
+<img src="https://github.com/user-attachments/assets/5c5a5fd3-54de-4d32-90f1-9fa7f0881edd" width="300" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
