@@ -15,6 +15,7 @@ class HomePageScreen extends State<HomePage> {
 
 
     // Accessing individual arguments
+
     final String ID = passedData['id'];
     final String EMAIL = passedData['email'];
 
