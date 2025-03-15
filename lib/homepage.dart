@@ -11,11 +11,7 @@ class HomePageScreen extends State<HomePage> {
   Widget build(BuildContext context) {
     final Map<String, dynamic> passedData =
         ModalRoute.of(context)?.settings.arguments as Map<String, dynamic>;
-
-
-
     // Accessing individual arguments
-
     final String ID = passedData['id'];
     final String EMAIL = passedData['email'];
 
